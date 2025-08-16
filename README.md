@@ -35,9 +35,3 @@
 - ### [Chapter 06](https://github.com/HaejunJang/jpa-orm-standard/tree/main/Chapter_6)
 
   #### 다양한 연관관계 매핑
-
-<br></br>
-
-## *Contributor*
-
-- *Haejun Jang* *[<본인 이메일 추가>]*  
