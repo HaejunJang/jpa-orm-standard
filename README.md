@@ -35,3 +35,7 @@
 - ### [Chapter 06](https://github.com/HaejunJang/jpa-orm-standard/tree/main/Chapter_6)
 
   #### 다양한 연관관계 매핑
+
+- ### [Chapter 07](https://github.com/HaejunJang/jpa-orm-standard/tree/main/Chapter_7)
+
+  #### 고급 매핑
