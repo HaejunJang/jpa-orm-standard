@@ -39,3 +39,7 @@
 - ### [Chapter 07](https://github.com/HaejunJang/jpa-orm-standard/tree/main/Chapter_7)
 
   #### 고급 매핑
+- 
+- ### [Chapter 08](https://github.com/HaejunJang/jpa-orm-standard/tree/main/Chapter_8)
+
+  #### 프록시와 연관관계 관리
