@@ -47,3 +47,7 @@
 - ### [Chapter 09](https://github.com/HaejunJang/jpa-orm-standard/tree/main/Chapter_9)
 
   #### 값 타입
+
+- ### [Chapter 16](https://github.com/HaejunJang/jpa-orm-standard/tree/main/Chapter_16)
+
+  #### 트랜잭션과 락, 2차캐시 
